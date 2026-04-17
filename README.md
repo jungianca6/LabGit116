@@ -1,1 +1,1 @@
-# LabGit116
+# LabGit116Regla de proteccion activa
